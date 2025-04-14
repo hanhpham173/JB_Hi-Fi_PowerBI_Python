@@ -41,7 +41,7 @@ The insights generated help JB Hi-Fi understand **customer preferences**, **mark
 
 ## 🗃️ Data Model
 
-
+![Data Model](https://raw.githubusercontent.com/hanhpham173/JB_Hi-Fi_PowerBI_Python/d7f8f606a7ac554e2cfb8905fe8d85131660e44b/model.JPG)
 
 Data was modeled into 4 separate tables:
 
@@ -67,6 +67,9 @@ This star schema model improves query performance and enables flexible slicing/f
 - **Price vs. Rating Correlation (by Brand)**  
   Slight positive trend – higher-priced TVs tend to receive better ratings  
 
+![Dashboard Screenshot](https://raw.githubusercontent.com/hanhpham173/JB_Hi-Fi_PowerBI_Python/d7f8f606a7ac554e2cfb8905fe8d85131660e44b/jb_sc1.JPG)
+
+
 ### Product Insights & Comparisons
 
 - **Top Rated Products**  
@@ -78,7 +81,10 @@ This star schema model improves query performance and enables flexible slicing/f
 - **Least Reviewed Products**  
   Some high-end models have only 1 review, suggesting limited feedback  
 - **Price vs. Rating Correlation (by Product)**  
-  Scatter plot shows that higher prices don’t always guarantee better ratings  
+  Scatter plot shows that higher prices don’t always guarantee better ratings
+
+![Additional Dashboard Screenshot](https://raw.githubusercontent.com/hanhpham173/JB_Hi-Fi_PowerBI_Python/d7f8f606a7ac554e2cfb8905fe8d85131660e44b/jb_sc2.JPG)
+
 
 ### Product Details Table
 
@@ -90,6 +96,9 @@ A comprehensive view of each product including:
 - Price  
 - Free Delivery  
 - Customer Rating  
+
+![Product Insights Screenshot](https://raw.githubusercontent.com/hanhpham173/JB_Hi-Fi_PowerBI_Python/d7f8f606a7ac554e2cfb8905fe8d85131660e44b/jb_sc3.JPG)
+
 
 ---
 
